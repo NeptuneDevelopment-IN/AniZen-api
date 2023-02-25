@@ -5,7 +5,7 @@
 Clone the Repository and run
 
 ```
-git clone https://github.com/shashankktiwariii/anikatsu-api.git
+git clone https://github.com/Neptunedevelopment/AniZen-api.git
 cd AniZen-api
 npm install 
 ```
